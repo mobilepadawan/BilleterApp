@@ -2,14 +2,16 @@
 
 body {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+.body-wide {
     margin-left: 2.5%;
     margin-right: 2.5%;
 }
 
 h1 {
     font-size: 9vw;
-    font-weight: 900;
-    font-stretch: wider;
+    font-weight: 500;
+    font-stretch: normal;
 }
 
 .input-field .prefix .active {
@@ -78,4 +80,9 @@ h1 {
 
 .white-grey-4 {
   color: #e0e0e0; /* grey lighten-1*/
+}
+
+.table-margins {
+    margin-left: 0% !important;
+    margin-right: 0% I !important;
 }
