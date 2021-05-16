@@ -3,10 +3,10 @@
 body {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
-.body-wide {
+/* .body-wide {
     margin-left: 2.5%;
     margin-right: 2.5%;
-}
+} */
 
 h1 {
     font-size: 9vw;
@@ -82,10 +82,10 @@ h1 {
   color: #e0e0e0; /* grey lighten-1*/
 }
 
-.table-margins {
+/* .table-margins {
     margin-left: 0% !important;
     margin-right: 0% I !important;
-}
+} */
 
 .outer {
     display: block;
