@@ -89,8 +89,8 @@ h1 {
 
 .outer {
     display: block;
-    position: fixed;
-    width: 90%;
+    position: initial;
+    width: 100%;
     bottom: auto;
 }
 
