@@ -86,3 +86,15 @@ h1 {
     margin-left: 0% !important;
     margin-right: 0% I !important;
 }
+
+.outer {
+    display: block;
+    position: fixed;
+    width: 90%;
+    bottom: auto;
+}
+
+.inner {
+    overflow-y: scroll;
+    height: 100%;     
+}
