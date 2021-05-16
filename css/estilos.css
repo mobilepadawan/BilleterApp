@@ -2,12 +2,12 @@
 
 body {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
 }
 
 h1 {
-    font-size: 90vw;
+    font-size: 9vw;
     font-weight: 900;
     font-stretch: wider;
 }
@@ -18,8 +18,8 @@ h1 {
   }
 
   .vertical-spaces {
-      margin-top: 30px;
-      margin-bottom: 30px;
+      margin-top: 10px;
+      margin-bottom: 10px;
   }
 
 .rounded {
@@ -34,12 +34,48 @@ h1 {
 }
 
   /* label underline focus color */
-  input:focus {
+  /* input:focus {
     border-bottom: 1px solid grey !important;
     box-shadow: 0 1px 0 0 grey !important
-  }
+  } */
 
   /* .max-wide {
       max-width: 18rem;
       align-self: center !important;
   } */
+
+  .pink-darken-1 {
+      color: #d81b60;
+  }
+
+  .pink-darken-2 {
+    color: #c2185b;
+  }
+
+  .pink-darken-3 {
+      color: #ad1457;
+  }
+
+  .pink-darken-4 {
+      color: #880e4f;
+  }
+
+  .white-common {
+      color: white;
+  }
+
+  .white-grey-1 {
+      color: #fafafa; /* grey lighten-1*/
+  }
+
+  .white-grey-2 {
+    color: #f5f5f5; /* grey lighten-1*/
+}
+
+.white-grey-3 {
+    color: #eeeeee; /* grey lighten-1*/
+}
+
+.white-grey-4 {
+  color: #e0e0e0; /* grey lighten-1*/
+}
